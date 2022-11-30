@@ -1,0 +1,19 @@
+{
+  "name": "ng-de-map",
+  "version": "1.0.0",
+  "description": "ng de map",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willi84/ng-de-map.git"
+  },
+  "author": "Robert Willemelis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willi84/ng-de-map/issues"
+  },
+  "homepage": "https://github.com/willi84/ng-de-map#readme"
+}

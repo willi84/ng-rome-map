@@ -1,0 +1,19 @@
+.not-active{
+    opacity: 0.3;
+}
+.showORHide.not-active + label{
+    opacity: 0.7;
+
+}
+.showORHide.inactive + label:hover,
+.showORHide.inactive + label{
+   background-color: gray;
+   border-color: gray;
+
+}
+.menu{
+    position: fixed;
+}
+[id$=_AREA]:hover{
+    cursor: pointer;
+}
