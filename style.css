@@ -1,5 +1,6 @@
 .not-active{
-    opacity: 0.3;
+    opacity: 0;
+    /* opacity: 0.3; */
 }
 .showORHide.not-active + label{
     opacity: 0.7;
