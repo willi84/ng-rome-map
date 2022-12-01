@@ -10,7 +10,7 @@
 .showORHide.inactive + label{
    background-color: gray;
    border-color: gray;
-
+   font-size: 50px;
 }
 .menu{
     position: fixed;
